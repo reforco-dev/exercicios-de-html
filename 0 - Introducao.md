@@ -14,7 +14,7 @@ Tags são a matéria prima que compõe uma página, assim como uma casa precisa 
 
 Abaixo você pode ver a base de uma página web, que é composta por a tag html e dentro dela as tags head e body, a tag head é onde inserimos informações sobre à página e também conectamos bibliotecas externas, no body é onde de fato inserimos nosso código e formamos as estruturas vísiveis para os usuários.
 
-Perceba que quase todas as tags são formadas por uma abertura <body> e um fechamento </body>.
+Perceba que quase todas as tags são formadas por uma abertura \<body\> e um fechamento \<\/body\>.
 
 ```html
 <!DOCTYPE html>
